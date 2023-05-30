@@ -1,6 +1,6 @@
 # How to Protect Worksheets in the Angular Spreadsheet Component 
 
-A quick-start project that helps you protect and unprotect a worksheet/workbook with a password in the Syncfusion Angular Spreadsheet component. This project contains code to lock cells in a sheet, to enable or disable this feature, use the isProtected property. You can also protect a sheet by using the protectSheet method.
+A quick-start project that helps you protect or unprotect a worksheet and workbook with a password in the Syncfusion Angular Spreadsheet component. This project contains code to lock cells in a sheet. To enable or disable this feature, use the isProtected property. You can also protect a sheet by using the protectSheet method.
 
 Refer to the protection documentation for the Syncfusion Angular Spreadsheet component: 
 https://ej2.syncfusion.com/angular/documentation/spreadsheet/protect-sheet
