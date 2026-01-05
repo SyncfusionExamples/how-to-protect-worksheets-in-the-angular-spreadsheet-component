@@ -3,6 +3,7 @@ import { SpreadsheetComponent } from '@syncfusion/ej2-angular-spreadsheet';
 import {protectSheetData} from './data';
 @Component({
   selector: 'app-root',
+  standalone: false,
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
